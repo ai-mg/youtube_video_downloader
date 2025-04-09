@@ -15,22 +15,15 @@ This project is a simple Python script that downloads a YouTube video (only if i
 
 - Python 3.6 or above
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- Standard Python libraries: `os`, `json`, `ssl`, and `urllib.request`
+- Standard Python libraries: `os`, `json`, `ssl`, `opencv` and `urllib.request`
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
-   ```
-
-2. **Install yt-dlp:**
-
-   You can install yt-dlp via pip:
-   ```bash
-   pip install yt-dlp
+   git clone https://github.com/ai-mg/youtube_video_downloader.git
+   cd youtube_video_downloader
    ```
 
 ## Usage
