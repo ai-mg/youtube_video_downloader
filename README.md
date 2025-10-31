@@ -3,6 +3,9 @@
 
 This project is a simple Python script that downloads a YouTube video (only if it has a Creative Commons license) and saves it as an MP4 file along with its metadata in JSON format. It uses the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library to handle video extraction and download.
 
+## Update
+- We add a new script `yt_dlp_video_frames.py`. In addition to the video as described below, this script also saves frames as images.
+
 ## Features
 
 - **Video Download:** Downloads the best available video and audio streams and merges them into a single MP4 file.
