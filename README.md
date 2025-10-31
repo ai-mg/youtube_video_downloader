@@ -61,6 +61,7 @@ After running the script, the following directories will be created (if they do 
 
 - **downloads:** (Not used if you update the template, but can be kept for future extensions)
 - **video:** Contains the downloaded video files.
+- **frames:** Contains frames (as images) from the downloaded video.
 - **metadata:** Contains JSON files with metadata corresponding to each downloaded video.
 - **logs:** Contains the log file (`rejected_videos.log`) with URLs that were skipped due to license issues.
 
