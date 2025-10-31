@@ -34,7 +34,7 @@ This project is a simple Python script that downloads a YouTube video (only if i
 Run the script using your Python interpreter:
 
 ```bash
-python your_script_name.py
+python yt_dlp_video_frames.py
 ```
 
 When prompted, paste the YouTube video URL. The script will:
